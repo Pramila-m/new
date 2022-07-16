@@ -1,6 +1,6 @@
 pip
-python install pip==22.1.2
-python -m pip install --upgrade pip
+pip install pip --upgrade
+
 ftfy
 regex
 --find-links https://download.pytorch.org/whl/torch_stable.html
