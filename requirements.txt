@@ -1,5 +1,5 @@
 pip
--m pip install --upgrade pip
+python -m pip install pip==19.3.1
 
 ftfy
 regex
