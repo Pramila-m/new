@@ -1,4 +1,6 @@
 pip
+-m pip install --upgrade pip
+
 ftfy
 regex
 --find-links https://download.pytorch.org/whl/torch_stable.html
