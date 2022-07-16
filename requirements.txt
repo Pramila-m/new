@@ -1,4 +1,4 @@
-pip
+
 pip install pip --upgrade
 
 ftfy
